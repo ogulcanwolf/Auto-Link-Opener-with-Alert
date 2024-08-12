@@ -10,7 +10,7 @@ alert_sound = 'alert_sound.mp3'
 pygame.mixer.music.load(alert_sound)
 
 # Write the link you want to open here
-link = 'https://visa.vfsglobal.com/tur/en/ltp/login'
+link = 'https://github.com/ogulcanwolf'
 
 # Open the link every 5 minutes and display a countdown
 while True:
